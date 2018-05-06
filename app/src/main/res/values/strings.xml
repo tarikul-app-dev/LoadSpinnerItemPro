@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">LoadSpinnerProgrammatically</string>
+
+    <string-array name="android_version">
+        <item>Cupcake</item>
+        <item>Donut</item>
+        <item>Eclair</item>
+        <item>Froyo</item>
+        <item>Gingerbread</item>
+        <item>Honeycomb</item>
+        <item>Ice Cream Sandwitch</item>
+        <item>Jelly Bean</item>
+        <item>Kitkat</item>
+        <item>Lollipop</item>
+        <item>Marshmallow</item>
+        <item>Nougat</item>
+        <item>Oreo</item>
+    </string-array>
+
+    <string-array name="nougat_api_version">
+        <item>26</item>
+    </string-array>
+    <string-array name="oreo_api_version">
+        <item>27</item>
+    </string-array>
+    <string-array name="marshmallow_api_version">
+        <item>23</item>
+    </string-array>
+</resources>
